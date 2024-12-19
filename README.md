@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# HTML
-=======
 ## HTML
 <a name="readme-top"></a>
     서버와 클라이언트 클라이언트 : 서버에게 요청하는 대상 서버 : 요청받은 서비스를 응답해주는 대상
@@ -149,4 +146,3 @@
       - inline 요소와 동일한 영역(내용만큼)을 가지지만 width와 height를 설정할 수 있다. <br>
       - margin-top, margin-bottom 속성도 잘 적용된다. <br>
       - padding-top, padding-bottom 속성동 잘 적용된다.
->>>>>>> master
